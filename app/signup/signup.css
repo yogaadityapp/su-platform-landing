@@ -1,0 +1,5 @@
+@media (max-width: 1024px) { 
+    .form-control{
+        padding-bottom: 5px !important;
+    }
+}

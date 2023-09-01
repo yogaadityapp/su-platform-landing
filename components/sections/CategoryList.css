@@ -1,0 +1,9 @@
+.category-card {
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgba(118, 118, 118, 0.00) 27.08%, rgba(118, 118, 118, 0.24) 95.47%);
+    height: 202px;
+    display: block;
+}
+.product .wiper-pagination{
+    bottom: -6px;
+}
